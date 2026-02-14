@@ -173,22 +173,6 @@ Tested model on custom tweets:
 
 ---
 
-## What I Built From Scratch
-
-✅ **Sigmoid function** - probability conversion
-
-✅ **Cost function** - error measurement
-
-✅ **Gradient descent** - learning algorithm
-
-✅ **Feature extraction** - text to numbers conversion
-
-✅ **Prediction pipeline** - complete classification system
-
-**No scikit-learn used for the core model!**
-
----
-
 ## Key Results
 
 | Metric | Value |
