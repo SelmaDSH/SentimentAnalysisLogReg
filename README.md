@@ -17,6 +17,6 @@ This project implements sentiment analysis using logistic regression on tweets.
 
 ## Folder Structure
 - `README.md` : project explanation
-- `notebook/` : Jupyter notebooks
+- `notebook/` : Jupyter notebooks 
 
 
