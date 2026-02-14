@@ -16,8 +16,7 @@ This project implements sentiment analysis using logistic regression on tweets.
 2. Run all cells
 
 ## Folder Structure
-- `data/` : (empty, NLTK datasets downloaded automatically)
 - `README.md` : project explanation
-- `notebook/` : your Jupyter notebooks
+- `notebook/` : Jupyter notebooks
 
 
