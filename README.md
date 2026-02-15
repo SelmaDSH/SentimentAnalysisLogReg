@@ -226,11 +226,7 @@ Then run all cells in order (1 through 11).
 
 ## Why This Project
 
-Built to demonstrate:
-- Understanding of machine learning fundamentals
-- Ability to implement algorithms from scratch
-- Skills in natural language processing
-- Problem-solving and coding ability
+Implementation of a sentiment analysis model from scratch to understand the fundamentals of binary classification in NLP and the underlying mathematical and algorithmic principles.
 
 ---
 
@@ -256,11 +252,6 @@ sentiment-analysis/
 ├── README.md                   # This file
 └── requirements.txt            # Python packages
 ```
-
----
-
-## Author
-
 
 ---
 
